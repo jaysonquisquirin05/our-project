@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>aboutUs</title>
+    <link rel="stylesheet" href="~/css/aboutUs.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><a asp-controller="Home" asp-action="Index">JaKMPster</a></div>
+        <nav>
+            <ul class="nav_links">
+                <li><a asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                <li><a asp-controller="Home" asp-action="Projects">Projects</a></li>
+                <li><a asp-controller="Home" asp-action="Services">Services</a></li>
+            </ul>
+        </nav>
+        <a class="cta" href="#"><button>Contact Us</button></a>
+    </header>
+
+<div class="members-container">
+    <div class="members-txt"><h2>MEMBERS</h2></div>
+    <div class="member-cards">
+        <div class="member">
+            <a href="#">
+            <img src="~/images/jester.jpg" alt="Jester">
+            <h3>Jester Bakisan</h3>
+            </a>
+        </div>
+        <div class="member">
+            <a href="#">
+                <img src="~/images/patrick.jpg" alt="Patrick">
+                <h3>Patrick Dayag</h3>
+            </a>                
+        </div>
+        <div class="member">
+            <a href="#">
+                <img src="~/images/krishna.jpg" alt="Krishna">
+                <h3>Krishna Inciong</h3>
+            </a>
+        </div>
+        <div class="member">
+            <a href="#">
+                <img src="~/images/mhileene.jpg" alt="Mhileene">
+                <h3>Mhileene Niwane</h3>
+            </a>                
+        </div>
+        <div class="member">
+            <a href="#">
+                <img src="~/images/jayson.jpg" alt="Jayson">
+                <h3>Jayson Quisquirin</h3>
+            </a>
+        </div>
+    </div>
+</div>
+</body>
+
+<footer>
+    <div class="contact-column">
+        <ul><div class="column-txt">CONTACT US</div>
+            <li>123456789</li>
+            <li>987654321</li>
+            <li>lol@websystems.sirjuan</li>
+        </ul>
+    </div>
+    <div class="socials-column">
+        <ul> <div class="column-txt">SOCIALS</div>
+            <li><a href="#"><img src="~/images/fb.png" alt="fb"></a></li>
+            <li><a href="#"><img src="~/images/insta.png" alt="insta"></a></li>
+            <li><a href="#"><img src="~/images/twitter.png" alt="X"></a></li>
+        </ul>
+    </div>
+</footer>
+</html>

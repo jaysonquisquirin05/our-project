@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayso\\Downloads\\JaKMPster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|c:\\users\\jayso\\downloads\\jakmpster\\jakmpster\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|solutionrelative:jakmpster\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|c:\\users\\jayso\\downloads\\jakmpster\\jakmpster\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|solutionrelative:jakmpster\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|c:\\users\\jayso\\downloads\\jakmpster\\jakmpster\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|solutionrelative:jakmpster\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|c:\\users\\jayso\\downloads\\jakmpster\\jakmpster\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE88FA32-F557-4B6B-AF60-B1E0A1C3A16D}|JaKMPster\\JaKMPster.csproj|solutionrelative:jakmpster\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\aboutUs.cshtml",
+              "RelativeDocumentMoniker": "JaKMPster\\Views\\Home\\aboutUs.cshtml",
+              "ToolTip": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\aboutUs.cshtml",
+              "RelativeToolTip": "JaKMPster\\Views\\Home\\aboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T05:21:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "JaKMPster\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "JaKMPster\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T05:21:22.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JaKMPster\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JaKMPster\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T05:21:22.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JaKMPster\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jayso\\Downloads\\JaKMPster\\JaKMPster\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JaKMPster\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T05:21:22.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
